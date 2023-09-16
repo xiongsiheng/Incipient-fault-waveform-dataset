@@ -1,4 +1,4 @@
-## Incipient-fault-waveform-data
+## Incipient-fault-waveform-dataset
 This repository contains the incipient fault waveform data. If you find it useful, please cite our paper.
 
 ## Citation

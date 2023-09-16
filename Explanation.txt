@@ -1,0 +1,14 @@
+The label corresponds to the name of the datafile. For example, in ‘Lable.txt’ Row 5 is ‘1’, meaning that the label of ‘data/5.txt’ is 1. 
+
+The relationship between label and event type is that:
+0: SIF, 1:MIF, 2: PF, 3: TD.
+
+The waveform data are in a 1312*7 format, where each column represents a variable and each row represents a sampling point. 
+
+The variables are listed in the order: Ia, Ib, Ic, In, Va, Vb, Vc.
+
+Power frequency of the systems is 50Hz, and sampling rate is 4096Hz.
+
+These waveforms are directly from measurements. Since the voltage division ratio of three phases are not always the same, you need to consider normalizing the voltage waveform before using.
+
+Due to the principle of measurement, the voltage waveform is not so accurate as current waveform.

@@ -1,5 +1,6 @@
 ## Incipient-fault-waveform-dataset
 This repository contains the incipient fault waveform data. If you find it useful, please cite our paper.
+
 IEEE DataPort: DOI: 10.21227/bwjy-7e05.
 ## Citation
 ```
